@@ -15,20 +15,16 @@ He trabajado en proyectos académicos y personales donde he aplicado conocimient
 
 ## Proyectos destacados
 
-### 🚗 EstacionaTest
-Sistema web para gestionar entradas y salidas de vehículos en estacionamientos. Utiliza una base de datos MySQL para almacenar y consultar la información del sistema.
+### 🎫 [HelpDesk TI](https://github.com/adm-land/helpdesk-ti)
+Sistema web de gestión de incidencias orientado a un entorno empresarial. Permite registrar tickets, trabajar con roles de usuario/técnico/administrador, asignar responsables, administrar prioridades y estados, documentar el seguimiento y consultar indicadores desde un dashboard.
 
-**Tecnologías:** Python, MySQL, HTML, CSS y JavaScript.
+**Tecnologías:** Python, Flask, SQLAlchemy, MySQL, HTML, CSS, Flask-Login, Flask-WTF, Docker Compose, Pytest y GitHub Actions.
 
-### 📦 Sistema de inventario y ventas
-Aplicación desarrollada para registrar productos, controlar existencias y consultar información de inventario.
+### 📦 Sistema de inventario y activos TI
+Próximo proyecto del portafolio: gestión de equipos tecnológicos, responsables, ubicaciones, estados, mantenimientos y reportes.
 
-**Tecnologías:** Python y MySQL.
-
-### 🌐 Laboratorio de redes y ciberseguridad
-Prácticas de configuración de redes en Cisco Packet Tracer, trabajando con direccionamiento IP, dispositivos de red y pruebas de conectividad.
-
-**Tecnologías:** Cisco Packet Tracer, TCP/IP y fundamentos de redes.
+### 🌐 Monitor de red y dispositivos
+Próximo proyecto del portafolio: registro y supervisión de dispositivos, disponibilidad, latencia e historial de conectividad.
 
 ## Formación
 
