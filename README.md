@@ -16,9 +16,11 @@ He trabajado en proyectos académicos y personales donde he aplicado conocimient
 ## Proyectos destacados
 
 ### 🎫 [HelpDesk TI](https://github.com/adm-land/helpdesk-ti)
-Sistema web de gestión de incidencias orientado a un entorno empresarial. Permite registrar tickets, trabajar con roles de usuario/técnico/administrador, asignar responsables, administrar prioridades y estados, documentar el seguimiento y consultar indicadores desde un dashboard.
+Sistema web para registrar y dar seguimiento a incidencias de soporte técnico. Incluye roles de usuario, técnico y administrador, prioridades, SLA, asignación de responsables, comentarios, historial de cambios, evidencias adjuntas, exportación a CSV y panel administrativo con indicadores.
 
-**Tecnologías:** Python, Flask, SQLAlchemy, MySQL, HTML, CSS, Flask-Login, Flask-WTF, Docker Compose, Pytest y GitHub Actions.
+**Tecnologías:** Python, Flask, SQLAlchemy, MySQL, HTML, CSS, Flask-Login, Flask-WTF, Docker Compose, Pytest, GitHub Actions y Gunicorn.
+
+**Demo en vivo:** [helpdesk-ti-alan.onrender.com](https://helpdesk-ti-alan.onrender.com/)
 
 ### 📦 Sistema de inventario y activos TI
 Próximo proyecto del portafolio: gestión de equipos tecnológicos, responsables, ubicaciones, estados, mantenimientos y reportes.
