@@ -1,32 +1,44 @@
 # Hola, soy Alan Daniel Martínez Martínez 👋
 
-Soy estudiante de **Ingeniería en Sistemas Computacionales en UNITEC**, actualmente en 7.º cuatrimestre. Me interesa seguir desarrollándome en programación, bases de datos, desarrollo web, redes y tecnologías de la información.
+Soy estudiante de **Ingeniería en Sistemas Computacionales en UNITEC**, actualmente en 7.º cuatrimestre. Me interesa desarrollarme profesionalmente en áreas de **Tecnologías de la Información, análisis de datos, Business Intelligence, soporte, sistemas y redes**.
 
-He trabajado en proyectos académicos y personales donde he aplicado conocimientos de **Python, MySQL, HTML, CSS, JavaScript y Cisco Packet Tracer**. Mi objetivo es continuar aprendiendo y adquirir experiencia profesional participando en proyectos reales.
+He construido proyectos de portafolio donde aplico programación, bases de datos, desarrollo web, redes y análisis de información, buscando que cada proyecto se acerque a situaciones reales de un área de TI o de una operación empresarial.
 
 ## Tecnologías y conocimientos
 
-- **Programación:** Python
-- **Bases de datos:** MySQL y SQL
-- **Desarrollo web:** HTML, CSS y JavaScript
-- **Redes:** Cisco Packet Tracer, TCP/IP, direccionamiento IP y fundamentos Cisco
-- **Soporte técnico:** mantenimiento preventivo y soporte básico
-- **Idiomas:** Español nativo e Inglés B1 (intermedio)
+- **Business Intelligence y datos:** Power BI, DAX, Power Query, Excel, modelado dimensional y KPIs.
+- **Programación:** Python.
+- **Bases de datos:** SQL, MySQL y SQLAlchemy.
+- **Desarrollo web:** Flask, HTML y CSS.
+- **Redes:** TCP/IP, Cisco Packet Tracer, direccionamiento IP y fundamentos Cisco.
+- **Herramientas y prácticas:** Git, GitHub, Docker Compose, Pytest y GitHub Actions.
+- **Idiomas:** Español nativo e Inglés B1 (intermedio).
 
 ## Proyectos destacados
 
-### 🎫 [HelpDesk TI](https://github.com/adm-land/helpdesk-ti)
-Sistema web para registrar y dar seguimiento a incidencias de soporte técnico. Incluye roles de usuario, técnico y administrador, prioridades, SLA, asignación de responsables, comentarios, historial de cambios, evidencias adjuntas, exportación a CSV y panel administrativo con indicadores.
+### 📊 [Industrial Operations Intelligence](https://github.com/adm-land/industrial-operations-intelligence)
+Dashboard de **Business Intelligence en Power BI** para analizar producción, calidad, mantenimiento, energía, inventario y logística. Incluye modelo dimensional, medidas DAX y KPIs como OEE, Scrap, MTTR, MTBF, OTIF y Fill Rate.
 
-**Tecnologías:** Python, Flask, SQLAlchemy, MySQL, HTML, CSS, Flask-Login, Flask-WTF, Docker Compose, Pytest, GitHub Actions y Gunicorn.
+**Tecnologías:** Power BI, DAX, Power Query, Excel y modelado de datos.
+
+### 🎫 [HelpDesk TI](https://github.com/adm-land/helpdesk-ti)
+Sistema web para registrar y dar seguimiento a incidencias de soporte técnico. Incluye roles, prioridades, SLA, asignación de responsables, historial de cambios, evidencias, dashboard, API, pruebas automáticas y CI con GitHub Actions.
+
+**Tecnologías:** Python, Flask, SQLAlchemy, MySQL, HTML, CSS, Docker Compose, Pytest, GitHub Actions y Gunicorn.
 
 **Demo en vivo:** [helpdesk-ti-alan.onrender.com](https://helpdesk-ti-alan.onrender.com/)
 
-### 📦 Sistema de inventario y activos TI
-Próximo proyecto del portafolio: gestión de equipos tecnológicos, responsables, ubicaciones, estados, mantenimientos y reportes.
+### 💻 [Activos TI](https://github.com/adm-land/activos-ti)
+Sistema para controlar el ciclo de vida de equipos tecnológicos: altas, estados, ubicaciones, responsables, asignaciones, devoluciones, mantenimientos, garantías, trazabilidad y exportación de información.
 
-### 🌐 Monitor de red y dispositivos
-Próximo proyecto del portafolio: registro y supervisión de dispositivos, disponibilidad, latencia e historial de conectividad.
+**Tecnologías:** Python, Flask, SQLAlchemy, MySQL, HTML, CSS, Docker Compose, Pytest y GitHub Actions.
+
+**Demo en vivo:** [activos-ti-alan.onrender.com](https://activos-ti-alan.onrender.com/)
+
+### 🌐 [Network Monitor TI](https://github.com/adm-land/network-monitor-ti)
+Sistema web para registrar dispositivos de red y dar seguimiento a disponibilidad, latencia, historial de comprobaciones y alertas. El proyecto combina programación con conceptos de redes y laboratorios Cisco.
+
+**Tecnologías:** Python, Flask, SQLAlchemy, MySQL, TCP/IP, sockets, Cisco Packet Tracer, Docker Compose, Pytest y GitHub Actions.
 
 ## Formación
 
@@ -53,4 +65,4 @@ Próximo proyecto del portafolio: registro y supervisión de dispositivos, dispo
 
 ---
 
-Actualmente busco oportunidades como **practicante, becario o perfil junior en áreas de Sistemas y TI**, donde pueda aplicar mis conocimientos y seguir desarrollando experiencia profesional.
+Actualmente busco oportunidades como **practicante, becario o perfil junior** donde pueda aplicar mis conocimientos en TI, datos, soporte, sistemas o redes y seguir desarrollando experiencia profesional.
